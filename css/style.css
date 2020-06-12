@@ -25,7 +25,7 @@ audio:hover{
     right: 0;
 }
 div#background{
-    background: url("../img/preview.jpg")no-repeat;
+    background: url("http://image-huomy.test.upcdn.net/girl/11.jpg")no-repeat;
     -webkit-animation: dd 100s linear infinite;
     -moz-animation: dd 100s linear infinite;
     -o-animation: dd 100s linear infinite;
